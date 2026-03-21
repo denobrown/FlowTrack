@@ -1,1 +1,6 @@
 streamlit
+pandas
+sqlalchemy
+psycopg2
+bcrypt
+python-jose
