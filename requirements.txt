@@ -23,8 +23,3 @@ joblib==1.3.2
 
 # Optional: future analytics / AI features
 scikit-learn==1.3.2       # for predictive analyticsstreamlit
-pandas
-sqlalchemy
-psycopg2
-bcrypt
-python-jose
